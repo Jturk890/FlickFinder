@@ -1,6 +1,6 @@
 # FlickFinder - COMP6000 Project
 
-FlickFinder is a desktop movie recommendation app built with **Java**, **Swing**, and **Spring MVC**, 
+FlickFinder is a movie recommendation app built with **Java**, **Swing**, and **Spring MVC**, 
 integrating with the **TMDb API** for real-time movie data.
 
 ---
@@ -123,5 +123,6 @@ java -jar junit-platform-console-standalone.jar   -cp target/classes:target/test
 ---
 
 ## 📜 License
+
 
 Educational use for COMP6000. Not licensed for commercial distribution.
